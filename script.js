@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Dummy Login Credentials
         const validEmail = "afrinakhatun6037@gmail.com";
-        const validPassword = "";
+        const validPassword = "2323";
 
         // Login Function
         function login() {
